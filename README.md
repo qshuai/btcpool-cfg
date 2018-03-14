@@ -85,7 +85,7 @@ official guideline: [https://github.com/Bitcoin-ABC/bitcoin-abc/blob/master/doc/
 	# read throughput the leader can be configured to not accept clients and focus
 	# on coordination.
 	#leaderServes=yes
-```
+	```
 
 5. Start/Stop service
 
