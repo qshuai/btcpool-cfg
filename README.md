@@ -1,7 +1,7 @@
 ## Set up Bitcoin-abc pool
 
 > bitcoin-abc: v0.16.2
-> env: Ubuntu 16.04.2 LTS
+> OS: Ubuntu 16.04.2 LTS
 
 ### Build Bitcoin-abc(a full node) and Run
 
@@ -85,7 +85,7 @@ official guideline: [https://github.com/Bitcoin-ABC/bitcoin-abc/blob/master/doc/
 	# read throughput the leader can be configured to not accept clients and focus
 	# on coordination.
 	#leaderServes=yes
-```
+	```
 
 5. Start/Stop service
 
